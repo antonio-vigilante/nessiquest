@@ -99,3 +99,6 @@ Il file HTML generato presenta:
 3. Dove vengono salvati i questionari?
 - I file HTML generati vengono salvati nella posizione selezionata durante l'esportazione.
 
+## Download
+
+[Visita il repository su GitHub](https://github.com/antonio-vigilante/nessitest)
