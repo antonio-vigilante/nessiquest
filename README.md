@@ -40,7 +40,7 @@ Non sono necessarie ulteriori configurazioni.
 
 Se si preferisce lavorare con il codice sorgente, utilizzare il file NessiTest.py.
 
-**1. Requisiti**
+**Requisiti**
 
 Python 3.x: Deve essere installato sul sistema.
 Libreria Tkinter: Inclusa nella maggior parte delle distribuzioni Python.
