@@ -25,16 +25,16 @@ _NessiTest_ è un'applicazione per la creazione di questionari personalizzati, s
 Il file eseguibile NessiTest.exe è progettato per gli utenti che desiderano eseguire il programma senza necessità di installare Python.
 
 **Passaggi**
-1. Scaricare il file
+1. Scaricare il file  
 Copiare o scaricare il file NessiTest.exe sul proprio computer.
 
-2. Eseguire il programma:
+2. Eseguire il programma    
 Fare doppio clic su NessiTest.exe per avviare l'app.
 Non sono necessarie ulteriori configurazioni.
 
-3. Interfaccia utente
-- Seguire i passaggi indicati per creare il questionario (vedi sezione "Uso dell'interfaccia").
-- Salvare il file HTML tramite la funzione di esportazione.
+3. Interfaccia utente  
+- Seguire i passaggi indicati per creare il questionario (vedi sezione "Uso dell'interfaccia").  
+- Salvare il file HTML tramite la funzione di esportazione.  
 
 #### 2. Utilizzo dello script Python
 
@@ -42,24 +42,23 @@ Se si preferisce lavorare con il codice sorgente, utilizzare il file NessiTest.p
 
 **Requisiti**
 
-Python 3.x: Deve essere installato sul sistema.
-Libreria Tkinter: Inclusa nella maggior parte delle distribuzioni Python.
+Python 3.x: Deve essere installato sul sistema.  
+Libreria Tkinter: Inclusa nella maggior parte delle distribuzioni Python.  
 
 **Passaggi**
 
-1. Aprire un terminale o un prompt dei comandi.
-2. Spostarsi nella directory contenente NessiTest.py.
-Eseguire il comando:
+1. Aprire un terminale o un prompt dei comandi.  
+2. Spostarsi nella directory contenente NessiTest.py.  
+Eseguire il comando:  
 ```
 python NessiTest.py
 ```
 Seguire le istruzioni a schermo.
 
 ## Uso dell'interfaccia
-L'interfaccia del programma (identica per il file .exe e lo script Python) è organizzata in più sezioni:
+L'interfaccia del programma (identica per il file .exe e lo script Python) è organizzata in più sezioni:  
 
 1. Titolo e Footer:
-
 - Inserire il titolo del questionario.
 - (Facoltativo) Aggiungere un footer, come una firma o una nota.
 
