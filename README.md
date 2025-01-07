@@ -6,7 +6,7 @@ _NessiTest_ è un'applicazione per la creazione di questionari personalizzati, s
 
 ### Creazione di Questionari
 
-Inserimento di un titolo e un footer opzionale.
+- Inserimento di un titolo e un footer opzionale.
 - Aggiunta di domande con più opzioni di risposta, specificando quelle corrette.
 - Modifica e gestione delle domande salvate.
 
