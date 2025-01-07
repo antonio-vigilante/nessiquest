@@ -79,11 +79,11 @@ L'interfaccia del programma (identica per il file .exe e lo script Python) è or
 ## File HTML generato
 
 Il file HTML generato presenta:
-- Design chiaro e leggibile con uno stile CSS integrato.
-- Funzionalità interattive tramite JavaScript per:
--- Verificare le risposte.
--- Evidenziare risposte corrette e sbagliate.
--- Calcolare il punteggio totale.
+- Design chiaro e leggibile con uno stile CSS integrato.  
+- Funzionalità interattive tramite JavaScript per:  
+-- Verificare le risposte.  
+-- Evidenziare risposte corrette e sbagliate.  
+-- Calcolare il punteggio totale.  
 
 ## Domande Frequenti
 
