@@ -1,6 +1,6 @@
-# NessiTest
+# NessiQuest
 
-_NessiTest_ è un'applicazione per la creazione di questionari personalizzati, sviluppata in Python e fornita sia come script Python (NessiTest.py) che come file eseguibile (NessiTest.exe). L'app permette di creare questionari interattivi e di esportarli in formato HTML.
+_NessiQuest_ è un'applicazione per la creazione di questionari personalizzati, sviluppata in Python e fornita sia come script Python (NessiTest.py) che come file eseguibile (NessiTest.exe). L'app permette di creare questionari interattivi e di esportarli in formato HTML.
 
 ## Caratteristiche principali
 
